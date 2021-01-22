@@ -1,0 +1,1 @@
+<h1><?php echo CONFIG['public_path']; ?> </h1>
